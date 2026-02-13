@@ -5,7 +5,7 @@ const urlLink = "https://ww6.mangakakalot.tv"
 
 const dataCollector = (req, res, next) => {
 
-    httpReq(`${urlLink}/manga_list?type=latest&category=None&state=None&page=1000000`)
+    httpReq(`${urlLink}/manga_list?type=latest&category=None&state=None&page=100`)
         .then((html) => {
 
 
