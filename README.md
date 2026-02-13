@@ -39,7 +39,7 @@ Open your terminal and run the following command to clone the Manga Hook reposit
 Terminal window
 
 ```bash
-git  clone  https://github.com/kiraaziz/mangahook-api
+git  clone  https://github.com/EdiynB/mangahook-api-forked
 ```
 
 ### 2.  **Navigate to the Server Directory:**
